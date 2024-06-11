@@ -25,7 +25,7 @@ if (student && student.grade && student.grade.number) {
 1. `push('a')`
 2. `shift()`
 3. `unshift('e')`
-- `'e'가 담긴다.`
+- `'e'`가 담긴다.
 
 ### 4. `Promise` 에 대해 서술하고, `Promise` 를 사용할 때 주의할 점을 2가지 이상 서술하시오.
 #### `Promise` 에 대한 서술
